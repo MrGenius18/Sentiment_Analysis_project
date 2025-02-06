@@ -1,8 +1,20 @@
-<h1 align="center">Sentiment Analysis</h1>
+<h1 align="center">😊 Sentiment Analysis 😡</h1>
+
+<p align="center">
+  <img src="https://github.com/MrGenius18/Sentiment_Analysis_project/blob/2d8dd2e108ff75856b8132b8ef3602fcec79f82b/emojis.jpeg">
+</p>
 
 ---
 
 This is a Flask-based web application for sentiment analysis. It takes user input in the form of text and predicts whether the sentiment is positive or negative using a trained classification model.
+
+---
+
+<h2 align="left">➡️ Visit the Application</h2>
+
+[![Click Me]()
+
+---
 
 ## Features
 
@@ -62,6 +74,12 @@ By default, the app runs on `http://127.0.0.1:5000/`.
 1. Open `http://127.0.0.1:5000/` in your browser.
 2. Enter a review or text input.
 3. Click submit to get the sentiment prediction.
+
+## Demo
+
+![Movie Recommender System Screenshot]()
+
+---
 
 ## Contributing
 

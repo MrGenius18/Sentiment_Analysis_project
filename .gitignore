@@ -1,3 +1,5 @@
 sentimentenv
 sentiment_analysis.ipynb
 Dataset-SA.csv
+.gitattributes
+.gitignore

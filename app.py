@@ -1,6 +1,7 @@
 from flask import Flask, request, render_template
 
 import re
+import nltk
 from nltk.stem.porter import PorterStemmer
 from nltk.corpus import stopwords
 

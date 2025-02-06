@@ -9,6 +9,8 @@ import pickle
 tfidf = pickle.load(open('tfidf.pkl', 'rb'))
 clf_model = pickle.load(open('clf_model.pkl', 'rb'))
 
+nltk.download('stopwords')
+
 
 app =Flask(__name__)
 

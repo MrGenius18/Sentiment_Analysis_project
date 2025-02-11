@@ -77,7 +77,7 @@ By default, the app runs on `http://127.0.0.1:5000/`.
 
 ## Demo
 
-![Movie Recommender System Screenshot]()
+![Movie Recommender System Screenshot](https://github.com/MrGenius18/Sentiment_Analysis_project/blob/a40902c3801473731bedee7afde809307404c635/demo.png)
 
 ---
 

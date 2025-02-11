@@ -1,5 +1,5 @@
 from flask import Flask, request, render_template
-
+import os
 import re
 import nltk
 from nltk.stem.porter import PorterStemmer
@@ -54,5 +54,9 @@ def predict():
 #####################################################
 
 
+# if __name__ == "__main__":
+#     app.run(debug=True)
+
 if __name__ == "__main__":
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Default to 5000 if no PORT is provided
+    app.run(host="0.0.0.0", port=port, debug=True)

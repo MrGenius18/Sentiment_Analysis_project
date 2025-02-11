@@ -12,7 +12,7 @@ This is a Flask-based web application for sentiment analysis. It takes user inpu
 
 <h2 align="left">➡️ Visit the Application</h2>
 
-[![Click Me]()
+[![Click Me](https://img.shields.io/badge/Click-Me-blue?style=for-the-badge)](https://sentiment-analysis-4j2h.onrender.com)
 
 ---
 

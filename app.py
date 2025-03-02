@@ -7,8 +7,8 @@ from nltk.corpus import stopwords
 
 import pickle
 
-tfidf = pickle.load(open('tfidf.pkl', 'rb'))
-clf_model = pickle.load(open('clf_model.pkl', 'rb'))
+tfidf = pickle.load(open('pkl files/tfidf.pkl', 'rb'))
+clf_model = pickle.load(open('pkl files/clf_model.pkl', 'rb'))
 
 nltk.download('stopwords')
 

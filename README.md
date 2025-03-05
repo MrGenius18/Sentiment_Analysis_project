@@ -1,7 +1,7 @@
 <h1 align="center">😊 Sentiment Analysis 😡</h1>
 
 <p align="center">
-  <img src="https://github.com/MrGenius18/Sentiment_Analysis_project/blob/2d8dd2e108ff75856b8132b8ef3602fcec79f82b/emojis.jpeg">
+  <img src="https://github.com/MrGenius18/Sentiment_Analysis_project/blob/a0c9b5946667b6ed92db942fc1bfb20c7048e066/extra%20materials/emojis.jpeg">
 </p>
 
 ---
@@ -77,7 +77,7 @@ By default, the app runs on `http://127.0.0.1:5000/`.
 
 ## Demo
 
-![Movie Recommender System Screenshot](https://github.com/MrGenius18/Sentiment_Analysis_project/blob/a40902c3801473731bedee7afde809307404c635/demo.png)
+![Movie Recommender System Screenshot](https://github.com/MrGenius18/Sentiment_Analysis_project/blob/a0c9b5946667b6ed92db942fc1bfb20c7048e066/extra%20materials/demo.png)
 
 ---
 
